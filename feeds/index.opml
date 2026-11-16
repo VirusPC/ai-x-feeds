@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>VirusPC X Feeds</title>
+  </head>
+  <body>
+    <outline text="DeepSeek Harness (@DeepSeekHarness)" title="DeepSeek Harness (@DeepSeekHarness)" type="rss" xmlUrl="https://raw.githubusercontent.com/VirusPC/x-feeds/main/feeds/DeepSeekHarness.xml" htmlUrl="https://x.com/DeepSeekHarness"/>
+  </body>
+</opml>
