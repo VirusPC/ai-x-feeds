@@ -7,14 +7,14 @@
 单个账号：
 
 ```
-https://raw.githubusercontent.com/VirusPC/x-feeds/main/feeds/<username>.xml
+https://raw.githubusercontent.com/VirusPC/ai-x-feeds/main/feeds/<username>.xml
 ```
 
 例如 @DeepSeekHarness：
 
-- Feed：https://raw.githubusercontent.com/VirusPC/x-feeds/main/feeds/DeepSeekHarness.xml
+- Feed：https://raw.githubusercontent.com/VirusPC/ai-x-feeds/main/feeds/DeepSeekHarness.xml
 - 主页：https://x.com/DeepSeekHarness
-- 全部源的 OPML：https://raw.githubusercontent.com/VirusPC/x-feeds/main/feeds/index.opml
+- 全部源的 OPML：https://raw.githubusercontent.com/VirusPC/ai-x-feeds/main/feeds/index.opml
 
 ## 仓库结构
 
@@ -53,7 +53,7 @@ git push origin main
    ```
 
 3. 拉该账号的帖子，运行 `python3 scripts/update.py ExampleUser posts.json`。
-4. 提交并推送到 `main`。订阅地址即为 `https://raw.githubusercontent.com/VirusPC/x-feeds/main/feeds/ExampleUser.xml`。
+4. 提交并推送到 `main`。订阅地址即为 `https://raw.githubusercontent.com/VirusPC/ai-x-feeds/main/feeds/ExampleUser.xml`。
 
 ## 条目规则
 

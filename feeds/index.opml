@@ -4,6 +4,6 @@
     <title>VirusPC X Feeds</title>
   </head>
   <body>
-    <outline text="DeepSeek Harness (@DeepSeekHarness)" title="DeepSeek Harness (@DeepSeekHarness)" type="rss" xmlUrl="https://raw.githubusercontent.com/VirusPC/x-feeds/main/feeds/DeepSeekHarness.xml" htmlUrl="https://x.com/DeepSeekHarness"/>
+    <outline text="DeepSeek Harness (@DeepSeekHarness)" title="DeepSeek Harness (@DeepSeekHarness)" type="rss" xmlUrl="https://raw.githubusercontent.com/VirusPC/ai-x-feeds/main/feeds/DeepSeekHarness.xml" htmlUrl="https://x.com/DeepSeekHarness"/>
   </body>
 </opml>
